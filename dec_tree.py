@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-@author: Hariharasudhan Gunasekaran(223733), Prathap Dhanasekaran(224312)
-"""
 import argparse
 import csv
 import pandas as pd
