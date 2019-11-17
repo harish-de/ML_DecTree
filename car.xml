@@ -1,0 +1,6 @@
+<tree entropy="0.6028704850060876">
+<node entropy="0.0" feature="att5" value="low">unacc</node>
+<node entropy="0.6075789953970611" feature="att5" value="med">
+<node entropy="0.0" feature="att3" value="2">unacc</node>
+<node entropy="0.738757044860997" feature="att3" value="more">
+<node entropy="0.32501121082417705" feature="att0" value="vhigh">
